@@ -1,8 +1,8 @@
 name: Visualify
 region: eu-central-1
-yamlVersion: 2
 services:
-  databases:
-    - name: Visualify
-      region: eu-central-1
-      type: mongo-atlas
+    databases:
+        - name: Visualify
+          region: eu-central-1
+          type: mongo-atlas
+yamlVersion: 2
